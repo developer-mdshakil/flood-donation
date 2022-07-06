@@ -112,3 +112,66 @@ body,h1,h2,h3,h4,h5,h6,a,span,strong,p{
     font-size: 15px;
     color: #9b9999;
 }
+.testimonial-section{
+    padding: 60px 220px;
+    background: #F4FEFF;
+}
+.testimonilan-info{
+    text-align: center;
+}
+.testimonilan-info h1 {
+    font-size: 45px;
+    font-weight: 500;
+    margin-bottom: 65px;
+}
+.founder-info img {
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    border: 4px solid #f7f7f7;
+    margin-bottom: 10px;
+}
+.founder-info h4 {
+    font-size: 20px;
+    margin-bottom: 6px;
+}
+.founder-info h6 {
+    font-size: 15px;
+    font-weight: 400;
+    color: #b7b2b2;
+    margin-bottom: 40px;
+}
+.founder-info span {
+    display: inline-block;
+    font-size: 17px;
+    color: #ff5200;
+    margin-bottom: 15px;
+    padding: 0px 5px;
+}
+.founder-info p {
+    font-size: 15px;
+    color: #a1a0a0;
+    width: 862px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+footer{
+    text-align: center;
+    background: #000;
+    color: #fff;
+    padding: 3%;
+}
+footer p{
+    margin-bottom: 10px;
+}
