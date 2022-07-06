@@ -10,7 +10,6 @@ body,h1,h2,h3,h4,h5,h6,a,span,strong,p{
     background-repeat: no-repeat;
     background-size: cover;
     padding: 220px;
-    background-position: center;
 }
 .banner-content {
     color: #fff;
