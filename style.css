@@ -12,17 +12,21 @@ body,h1,h2,h3,h4,h5,h6,a,span,strong,p{
     padding: 220px;
     background-position: center;
 }
-.banner-content{
+.banner-content {
     color: #fff;
+    display: block;
     text-align: center;
 }
-.banner-content h1{
-    font-size: 50px;
+.banner-content h1 {
+    text-align: center;
+    font-size: 55px;
     margin-bottom: 20px;
+    display: block;
 }
 .banner-content p {
     font-size: 16px;
     font-weight: 400;
+    text-align: center;
     width: 975px;
     margin-bottom: 30px;
 }
@@ -124,6 +128,10 @@ body,h1,h2,h3,h4,h5,h6,a,span,strong,p{
     font-weight: 500;
     margin-bottom: 65px;
 }
+.testimonilan-info {
+    text-align: center;
+    display: block;
+}
 .founder-info img {
     width: 120px;
     height: 120px;
@@ -151,7 +159,7 @@ body,h1,h2,h3,h4,h5,h6,a,span,strong,p{
 .founder-info p {
     font-size: 15px;
     color: #a1a0a0;
-    width: 995px;
+    width: 999px;
 }
 .suviv-items{
     display: flex;
