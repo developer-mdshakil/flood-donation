@@ -20,9 +20,10 @@ body,h1,h2,h3,h4,h5,h6,a,span,strong,p{
     font-size: 45px;
     margin-bottom: 20px;
 }
-.banner-content p{
+.banner-content p {
     font-size: 16px;
     font-weight: 400;
+    width: 864px;
     margin-bottom: 30px;
 }
 .link-button{
@@ -75,4 +76,39 @@ body,h1,h2,h3,h4,h5,h6,a,span,strong,p{
     width: 58%;
     background: #dfdfdf;
     height: 2px;
+}
+.plan_tems {
+    display: flex;
+    margin-top: 80px;
+}
+.single-plan{
+    width: 33%;
+    margin-right: 25px;
+    padding: 5% 2%;
+    border-radius: 3px;
+}
+#food-family{
+    background:  rgba(79, 157, 166, 0.1);
+}
+#shelter-family{
+    background: rgba(255, 89, 89, 0.1);
+}
+#education-child{
+    background: #FFF4D6;
+}
+.single-plan span {
+    display: inline-block;
+    font-size: 40px;
+    color: #ff5200;
+    margin-bottom: 18px;
+}
+.single-plan h3 {
+    font-size: 19px;
+    display: block;
+    margin-bottom: 15px;
+    font-weight: 500;
+}
+.single-plan p {
+    font-size: 15px;
+    color: #9b9999;
 }
