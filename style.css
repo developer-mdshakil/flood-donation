@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body,h1,h2,h3,h4,h5,h6,a,span,strong,p{
+    font-family: 'Rubik', sans-serif;
+}
+.banner-section{
+    background-image: url(images/banner-bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 220px;
+    background-position: center;
+}
+.banner-content{
+    color: #fff;
+    text-align: center;
+}
+.banner-content h1{
+    font-size: 45px;
+    margin-bottom: 20px;
+}
+.banner-content p{
+    font-size: 16px;
+    font-weight: 400;
+    margin-bottom: 30px;
+}
+.link-button{
+    text-decoration: none;
+    background: #ff5200;
+    font-size: 17px;
+    color: #fff;
+    font-weight: 500;
+    border-radius: 5px;
+    padding: 10px 20px;
+}
